@@ -1,0 +1,47 @@
+
+.start
+{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    opacity: 0.5;
+    border-radius: 15px;
+    
+    
+}
+.bg
+{
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+}
+.txtbox
+{
+    margin-top: 40px;
+    background: white;
+    text-align: start;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 30px;
+    width: 300px;
+    padding: 15px;
+    
+
+
+
+}
+.btn{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
